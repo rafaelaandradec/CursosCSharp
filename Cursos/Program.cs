@@ -6,6 +6,8 @@ namespace Cursos
     {
         static void Main(string[] args)
         {
+                        //Operadores de Atribuição
+
             int a = 10;
             Console.WriteLine(a);
 
@@ -20,6 +22,7 @@ namespace Cursos
 
             s += "DEF";
             Console.WriteLine(s);
+            
         }
     }
 }
